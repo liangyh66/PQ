@@ -7,9 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<marquee>
-		i can fly!
-	</marquee>
+
+	i can fly!
 
 </body>
 </html>
